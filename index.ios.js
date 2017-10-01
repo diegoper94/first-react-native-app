@@ -11,7 +11,7 @@ export default class firstNativeApp extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome!</Text>
+        <Text style={styles.welcome}>Welcome to react native!</Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
         </Text>
