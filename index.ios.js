@@ -5,6 +5,7 @@ import Header from './src/components/header';
 const App = () => (
   <View>
     <Header headerText={'Albums'} />
+    <AlbumList />
   </View>
 );
 
